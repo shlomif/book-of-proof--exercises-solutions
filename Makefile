@@ -1,6 +1,6 @@
 BASE = book-of-proof--solutions-for-exercises
 
-all: $(BASE).ps
+all: pdf
 # $(BASE).xhtml
 
 pdf: $(BASE).pdf
